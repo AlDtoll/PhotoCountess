@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">#ФотоБабушке</string>
+    <string name="Welcome">Добро пожаловать в приложение #фотоБабушке!
+        \nХотите порадовать близких фотографиями с радостными лицами?
+    \nВсе что вам понадобится - оставить свой контакт, остальное #фотоБабушке сделает за вас.</string>
+    <string name="Whom">Для кого</string>
+    <string name="lastName">Фамилия</string>
+    <string name="firstName">Имя</string>
+    <string name="middleName">Отчество</string>
+    <string name="address">Адрес доставки</string>
+    <string name="submit">Подписаться</string>
+    <string name="to">Расскажи кому ты хочешь отправить фото</string>
+    <string name="from">Расскажи от кого нужно доставить фото</string>
+    <string name="profiles">Добавить профиль</string>
+    <string name="phone">Мобильный телефон</string>
+    <string name="vk">vk</string>
+    <string name="facebook">facebook</string>
+    <string name="instagram">instagram</string>
+    <string name="city">Город</string>
+    <string name="street">Улица</string>
+    <string name="house">Дом</string>
+    <string name="flat">Квартира</string>
+    <string name="build">Корпус</string>
+    <string name="instuction">разместите фотографию в соцсети</string>
+    <string name="index">Почтовый индекс</string>
+    <string-array name="cities">
+        <item>Санкт-Петербург</item>
+        <item>Новосибирск</item>
+        <item>Москва</item>
+        <item>Киев</item>
+        <item>Саратов</item>
+        <item>Новгород</item>
+    </string-array>
+    <string-array name="streets">
+        <item>Красный проспект</item>
+        <item>Ленина</item>
+        <item>Станиславского</item>
+        <item>Котовского</item>
+        <item>Титова</item>
+        <item>Ватутина</item>
+    </string-array>
+</resources>
